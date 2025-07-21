@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm Denny, a frontend engineer.   
 Love to learn new stuff and try new things
 
-😎 Visit my [resume]([https://dennnnny.github.io/](http://resume-of-dennnnny.vercel.app/)) 😎  
+😎 Visit my [resume](http://resume-of-dennnnny.vercel.app/) 😎  
 
 projects:
 1. [mini-shop](https://this-mini-shop.web.app/)
